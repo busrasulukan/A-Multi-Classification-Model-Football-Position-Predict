@@ -31,6 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 📝 The scope of this project is to build a machine learning model to predict the new positions of soccer players based on the changes in their performance over time.
+[![Product Name Screen Shot][about]](https://multiclassificationmodel-ij43nguuba-uc.a.run.app/about.html)
 
 📝 This GitHub repository contains all the tried and tested multi-class modeling operations and benchmarks.
 
@@ -74,7 +75,7 @@
 [pipeline]: images/pipelines.png
 [dashboard]: images/dashboard.png
 [interface]:images/interface.png
-
+[about]: images/about.png
 
 
 
