@@ -31,17 +31,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 📝 The scope of this project is to build a machine learning model to predict the new positions of soccer players based on the changes in their performance over time.
-[![Product Name Screen Shot][about]](https://multiclassificationmodel-ij43nguuba-uc.a.run.app/about.html)
+[![Product Name Screen Shot][about]](https://fastapi2-74557owg3a-uc.a.run.app/about.html)
 
 📝 This GitHub repository contains all the tried and tested multi-class modeling operations and benchmarks.
 
 🌐 The interface created for FastAPI after the decided model is as follows, you can click on the image to access model interface.
 
-[![Product Name Screen Shot][interface]](https://multiclassificationmodel-ij43nguuba-uc.a.run.app/model.html)
+[![Product Name Screen Shot][interface]](https://fastapi2-74557owg3a-uc.a.run.app/model.html)
 
 🌐You can access the web page we have created for our model, including information and model interface, by clicking on the image below. 🙂
 
-[![Product Name Screen Shot][product-screenshot]](https://multiclassificationmodel-ij43nguuba-uc.a.run.app/)
+[![Product Name Screen Shot][product-screenshot]](https://fastapi2-74557owg3a-uc.a.run.app/)
 
 
 ## Methodogy
